@@ -10,9 +10,9 @@
 - 2022-03-01 ~ 2022-06-10
 
 ## [개발환경]
-H/W : Raspberry Pi 3, DHT-11, PM2008M, MAX-7219 ,LG Q9
-O/S : Raspbian, Android 9
-IDE : thonny, Android Studio
+- H/W : Raspberry Pi 3, DHT-11, PM2008M, MAX-7219 ,LG Q9
+- O/S : Raspbian, Android 9
+- IDE : thonny, Android Studio
 
 ## [화면]
 
