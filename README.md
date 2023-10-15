@@ -1,6 +1,6 @@
 # 스마트 미세먼지 측정기
 
-![product](img/image05.png)
+![product](img/image05.png){: width="100" height="100"}
 
 ## [프로젝트 소개]
 
