@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/drawable/ic_baseline_emoji_emotions_24.xml" value="0.155" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/drawable/ic_baseline_menu_qwer.xml" value="0.155" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/drawable/ic_baseline_mood_24.xml" value="0.155" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/drawable/ic_baseline_mood_bad_24.xml" value="0.155" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/drawable/ic_baseline_sentiment_dissatisfied_24.xml" value="0.155" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/drawable/ic_baseline_sentiment_satisfied_24.xml" value="0.155" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/drawable/ic_baseline_sentiment_satisfied_alt_24.xml" value="0.155" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/drawable/ic_baseline_sentiment_very_dissatisfied_24.xml" value="0.155" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/drawable/ic_baseline_sentiment_very_satisfied_24.xml" value="0.155" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/layout/activity_check_acticity.xml" value="0.2033514492753623" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/layout/activity_location.xml" value="0.2033514492753623" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/layout/activity_main.xml" value="0.2006340579710145" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/layout/activity_maps.xml" value="0.2033514492753623" />
+        <entry key="..\:/asdfg/MyFirstProject/app/src/main/res/layout/register_layout.xml" value="0.2006340579710145" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
