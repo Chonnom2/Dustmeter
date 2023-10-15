@@ -9,6 +9,11 @@
 - 장소 별로 정보가 기록되어 장소 별 시간에 대해 통계를 확인할 수 있습니다.
 - 2022-03-01 ~ 2022-06-10
 
+## [개발환경]
+H/W : Raspberry Pi 3, DHT-11, PM2008M, MAX-7219 ,LG Q9
+O/S : Raspbian, Android 9
+IDE : thonny, Android Studio
+
 ## [화면]
 
 ### 메인 화면
